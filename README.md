@@ -1,3 +1,3 @@
 # BLOG 
 
-## Projeto front-end
+## Projeto front-end AWARI!
